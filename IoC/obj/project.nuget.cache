@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1/UF8JTXa+4ueX+vsZNqSzPf4p2LAwmnQJjvO0GLXAffyldLE6i12MCdUEj8wWtzbYOOAtAgc3WP9sjuF/A1yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mahdi\\source\\repos\\mmk90\\Registeration\\IoC\\IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahdi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\Mahdi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
